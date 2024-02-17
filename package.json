@@ -1,8 +1,8 @@
 {
-    "name": "telescience",
+    "name": "pr-telesci-fork",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://vortex1942.github.io/telescience",
+    "homepage": "https://lacumbiadelcoronavirus.github.io/pr-telesci-fork/",
     "dependencies": {
         "@material-ui/core": "^3.9.2",
         "@material-ui/icons": "^3.0.1",
