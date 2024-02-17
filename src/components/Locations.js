@@ -77,10 +77,10 @@ const Locations = props => {
                     </ul>
                 
                 {/*Changes map to AdventureZone, may turn this into a captcha eg. How many Go-Karts are in the VR arcade*/}
-                <IconButton color="default" onClick={() => selectMap("adventurezone")}>
-                    <MapIcon/> 
-                    <div className={classes.line}>&ensp;Adventure Zone Spoilers</div>
-                </IconButton>
+                {/* <IconButton color="default" onClick={() => selectMap("adventurezone")}>
+                        <MapIcon/> 
+                        <div className={classes.line}>&ensp;Adventure Zone Spoilers</div>
+                    </IconButton> */}
                 
                 </Typography>
             </Collapse>

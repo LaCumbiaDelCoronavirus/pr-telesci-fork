@@ -2,7 +2,7 @@
     "name": "pr-telesci-fork",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://lacumbiadelcoronavirus.github.io/pr-telesci-fork/",
+    "homepage": "https://lacumbiadelcoronavirus.github.io/pr-telesci-fork",
     "dependencies": {
         "@material-ui/core": "^3.9.2",
         "@material-ui/icons": "^3.0.1",
@@ -14,6 +14,8 @@
     },
     "scripts": {
         "start": "react-scripts start",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "build": "CI=false react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"

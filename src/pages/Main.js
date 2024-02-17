@@ -115,7 +115,7 @@ const Main = props => {
             { name: 'Mars', location: [190, 135] },
             { name: 'Meat Station', location: [209, 23] },
             { name: 'Museum of Lunar History', location: [105, 212] },
-            { name: 'Solar Observatory', location: [97, 87] }
+            { name: 'Solarium', location: [97, 87] }
         ],
     });
     const [zoom, setZoom] = useState(7);
