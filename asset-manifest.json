@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pr-telesci-fork/static/css/main.65489345.css",
+    "main.js": "/pr-telesci-fork/static/js/main.05304d3b.js",
+    "static/media/space.png": "/pr-telesci-fork/static/media/space.65d39b69e87294b6fb3f.png",
+    "index.html": "/pr-telesci-fork/index.html",
+    "main.65489345.css.map": "/pr-telesci-fork/static/css/main.65489345.css.map",
+    "main.05304d3b.js.map": "/pr-telesci-fork/static/js/main.05304d3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65489345.css",
+    "static/js/main.05304d3b.js"
+  ]
+}
