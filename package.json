@@ -1,7 +1,6 @@
 {
     "name": "pr-telesci-fork",
     "version": "0.1.0",
-    "private": true,
     "homepage": "https://lacumbiadelcoronavirus.github.io/pr-telesci-fork",
     "dependencies": {
         "@material-ui/core": "^3.9.2",
